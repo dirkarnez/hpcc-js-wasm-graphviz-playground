@@ -1,5 +1,5 @@
-hpcc-js-wasm-graphviz-playground
-================================
+[hpcc-js-wasm-graphviz-playground](https://dirkarnez.github.io/hpcc-js-wasm-graphviz-playground/)
+=================================================================================================
 ### Using
 - [dirkarnez/hpcc-js-wasm-graphviz-prebuilt](https://github.com/dirkarnez/hpcc-js-wasm-graphviz-prebuilt)
 
